@@ -1,4 +1,4 @@
-## Ball and Beam Control with State-Feedback Controller Observer and descrete Controller
+## Ball and Beam Control Using State-Feedback Controller, Observer and descrete Controller
 
 ![alt text](https://github.com/98210184/Ball-and-Beam-Control-with-State-Feedback-Controller-Observer-and-descrete-Controller/blob/master/image.png?raw=true)
 #### With this matlab files you able to Control Ball and Beam with Linear state-feedback Controller, Observer and descrete Controller
