@@ -2,13 +2,13 @@
 
 ![alt text](https://github.com/98210184/Ball-and-Beam-Control-using-State-Feedback-Controller-Observer-and-descrete-Controller/blob/master/Images/BaB.png?raw=true)
 ![alt text](https://github.com/98210184/Ball-and-Beam-Control-using-State-Feedback-Controller-Observer-and-descrete-Controller/blob/master/Images/BaB1.png?raw=true)
-![alt text](https://github.com/98210184/Ball-and-Beam-Control-using-State-Feedback-Controller-Observer-and-descrete-Controller/blob/master/Images/BaB2.png?raw=true)
 
 #### With this matlab files you able to Control Ball and Beam with Linear state-feedback Controller, Observer and descrete Controller
 
 ## Functions:
 #### Linearization and transfer to State-Space: _State-Space()_
 #### Create Animation: _Animate_BaB()_
+![alt text](https://github.com/98210184/Ball-and-Beam-Control-using-State-Feedback-Controller-Observer-and-descrete-Controller/blob/master/Images/BaB2.png?raw=true)
 
 ## Controller:
 #### 1- State Feedback Control with Animation:              _Ctrlr_BaB.m_
